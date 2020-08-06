@@ -25,6 +25,8 @@ All done
 2. `npm install` to install all the required dependencies;
 3. `npm run start` to run the project on your local environment;
 
+Live demo: http://hamilton-rappi4.surge.sh/
+
 ## Created By :grin:
 Bruno Bulgaron (me), Cazuza Barberino, Gabriela Salvo, Luan Campos and Natália Acedo.
 
