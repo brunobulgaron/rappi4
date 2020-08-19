@@ -1,5 +1,5 @@
 # rappi4
-[Live Demo] (http://hamilton-rappi4.surge.sh/)
+[Live Demo](http://hamilton-rappi4.surge.sh/)
 
 ## About
 When we were learning how to use ReactJS at Labenu (former Future4), we've had an assignment of creating our own version of a food ordering app based on Rappi, and so it was born rappi4.
